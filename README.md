@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nweke Onyekachukwu Ejiofor
 - 👀 I’m interested in Web development and Cloud computing 
 - 🌱 I’m currently learning Software engineering from ALX and Cloud Engineering from AltSchool Africa
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on PHP, Web Development, C and Python Projects
 - 📫 How to reach me on WhatsApp +2348135833089
 
 <!---
