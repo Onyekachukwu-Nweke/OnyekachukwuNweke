@@ -15,7 +15,7 @@ I'm a Software Engineer, Cloud Enthusiast, and Community Engineer who is current
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OnyekachukwuNweke&show_icons=true&include_all_commits=true&hide_border=true" alt="Onyeka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyekachukwu-Nweke&langs_count=8&layout=compact&hide_border=true" alt="Onyeka's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OnyekachukwuNweke&show_icons=true&include_all_commits=true&hide_border=true" alt="Onyeka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnyekachukwuNweke&langs_count=8&layout=compact&hide_border=true" alt="Onyeka's GitHub stats" /> |
 | ------------- | ------------- |
 
 <!---
